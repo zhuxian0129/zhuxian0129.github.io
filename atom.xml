@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://zhuxian0129.github.io</id>
+    <title>job-idea</title>
+    <updated>2025-07-20T14:47:45.721Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://zhuxian0129.github.io"/>
+    <link rel="self" href="https://zhuxian0129.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://zhuxian0129.github.io/images/avatar.png</logo>
+    <icon>https://zhuxian0129.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, job-idea</rights>
+    <entry>
+        <title type="html"><![CDATA[文本超出指定行数显示省略号]]></title>
+        <id>https://zhuxian0129.github.io/wen-ben-chao-chu-zhi-ding-xing-shu-xian-shi-sheng-lue-hao/</id>
+        <link href="https://zhuxian0129.github.io/wen-ben-chao-chu-zhi-ding-xing-shu-xian-shi-sheng-lue-hao/">
+        </link>
+        <updated>2025-07-20T14:41:13.000Z</updated>
+        <content type="html"><![CDATA[<p>前端开发过程中，我们会遇到这样的场景：<br>
+一段文本，超出三行显示省略号，且在文本末尾需要一个查看更多的按钮。<br>
+这时候，我们可以这样做：</p>
+<ol>
+<li>文本截取</li>
+<li>文本截取 + xxx</li>
+</ol>
+]]></content>
+    </entry>
+</feed>
